@@ -7,4 +7,4 @@ while ($str = fgets($file)){
 }
 fclose($file);
 ?>
-// ファイルを閉じる
+

@@ -32,11 +32,10 @@ fclose($file);
 
 <body>
 
-    <h1>書き込みしました。</h1>
-    <h2>./data/data.txt を確認しましょう！</h2>
+    <h1>アンケート結果を送信しました</h1>
 
     <ul>
-        <li><a href="read.php">確認する</a></li>
+        <li><a href="read.php">これまでの解答結果を確認する</a></li>
         <li><a href="input.php">戻る</a></li>
     </ul>
 </body>
