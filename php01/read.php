@@ -6,5 +6,5 @@ while ($str = fgets($file)){
     echo nl2br($str);
 }
 fclose($file);
-
+?>
 // ファイルを閉じる
